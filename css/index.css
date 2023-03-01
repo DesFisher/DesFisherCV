@@ -1,11 +1,64 @@
 
 body {
- background-color:#F0EEED;
+ background-color:#F1DBBF;
+}
+
+.worktitle {
+    font-size: 20px;
+    font-style: italic;
 }
 
 hr {
    height: 1px;
-   color: #609EA2;
+   color: #AA5656;
     border-top: dotted;
     width: 250px;
+}
+
+p {
+    color: #AA5656;
+    font-style: bold;
+    font-size: 20px;
+}
+
+a {
+    font-size: 20px;
+}
+
+table {
+    font-size: 15px;
+}
+
+table, td {
+    font-size: 18px;
+    font-style: normal;
+}
+
+table, thead {
+    font-style: italic;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #AA5656;
+}
+
+a:hover {
+    font-size: 30px;
+}
+
+a:link {
+    color: #AA5656;
+}
+
+.education {
+    font-style: italic;
+}
+
+ul, li {
+    font-size: 18px;
+}
+
+.experience {
+    font-style: italic;
 }
