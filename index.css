@@ -1,6 +1,15 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 body {
  background-color:#F1DBBF;
+}
+
+.destanie {
+    margin-top: 20px;
+    width:400px; 
+    margin-left: 450px;
+    margin-bottom: 50px;
+    font-family: 'Dancing Script', cursive;
+   
 }
 
 .worktitle {
@@ -61,4 +70,12 @@ ul, li {
 
 .experience {
     font-style: italic;
+}
+
+img {
+    /* padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 50px;
+    padding-bottom: 50px; */
+    padding: 50px 250px;
 }
