@@ -73,9 +73,6 @@ ul, li {
 }
 
 .bird {
-    /* padding-left: 300px;
-    padding-right: 300px;
-    padding-top: 50px;
-    padding-bottom: 50px; */
+    background-color: #AA5656;
     padding: 50px 250px;
 }
