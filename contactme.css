@@ -1,9 +1,28 @@
 body {
-    background-color:#F1DBBF;
-    color: #609EA2;
+    background-color:#FFF1DC;
+    color: rgb(163, 119, 60);
+    text-align: center;
    }
    button {
-    background-color: #C92C6D;
+    background-color: #74c5e2;
     font-size: 18px;
     width: 90px;
    }
+
+   a:visited {
+    text-decoration: none;
+    color: #3A98B9;
+}
+
+form {
+    border: #74c5e2;
+    border-style: double;
+    width: 50%;
+    margin-right: 20px;
+    margin-left: 200px;
+}
+
+div {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
