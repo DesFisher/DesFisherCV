@@ -1,23 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
 body {
  background-color:#FFF1DC;
  text-align: center;
- font-family: 'Dancing Script', cursive;
+ font-family: 'Satisfy', cursive;
 }
 
 header {
-    font-size:  10px;
-    display: inline;
-    float: right;
-    
-    
-}
+    font-size:  18px;
+    text-align: right;
+    width: 100%;
+   }
 
 .destanie {
     margin-left: 40%;
     font-size: 30px;
     width: 300px
-  
 }
 
 .worktitle {
@@ -29,7 +27,7 @@ hr {
    height: 1px;
    color: rgb(141, 98, 41);
     border-top: dotted;
-    width: 250px;
+    width: 500px;
     margin-top: 10px;
     margin-bottom: 40px;
 }
@@ -43,13 +41,12 @@ p {
 
 a {
     font-size: 20px;
+    margin-left: 10px;
 }
 
 table {
    text-align: center;
 }
-
-
 
 table, td {
     font-size: 18px;

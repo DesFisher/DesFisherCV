@@ -1,7 +1,31 @@
 body {
-    background-color:#F1DBBF;
+    background-color:#FFF1DC;
+    color: rgb(163, 119, 60);
     text-align: center;
+    font-size: 20px;
    }
+
+   header {
+    font-size:  18px;
+    text-align: right;
+    width: 100%;
+   }
+
+   a:visited {
+    text-decoration: none;
+    color: #3A98B9;
+}
+
+   .aboutme {
+    margin-left: 40%;
+    font-size: 30px;
+    width: 300px
+   }
+
+   h1 {
+    padding-top: 30px;
+   }
+
 
    ul {
     list-style-type: '🔅';
@@ -11,4 +35,10 @@ body {
    h3 {
     font-weight: 800;
     font-size: 30px;
+   }
+
+   hr {
+    color: rgb(141, 98, 41);
+    border: 3px dotted;
+    width: 500px;
    }

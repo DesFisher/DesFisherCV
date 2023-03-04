@@ -3,6 +3,33 @@ body {
     color: rgb(163, 119, 60);
     text-align: center;
    }
+
+   a:visited {
+    text-decoration: none;
+    color: #3A98B9;
+}
+
+header {
+    font-size:  20px;
+    text-align: right;
+    width: 100%;
+   }
+
+   .hours {
+    font-size: 20px;
+   }
+
+   a:visited {
+    text-decoration: none;
+    color: #3A98B9;
+}
+
+.contact {
+    margin-left: 40%;
+    font-size: 15px;
+    margin-left: 10%;
+}
+
    button {
     background-color: #74c5e2;
     font-size: 18px;
