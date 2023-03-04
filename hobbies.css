@@ -1,3 +1,14 @@
 body {
     background-color:#F1DBBF;
+    text-align: center;
+   }
+
+   ul {
+    list-style-type: '🔅';
+    list-style-position: inside;
+   }
+
+   h3 {
+    font-weight: 800;
+    font-size: 30px;
    }

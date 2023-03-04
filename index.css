@@ -5,32 +5,40 @@ body {
  font-family: 'Dancing Script', cursive;
 }
 
-/* .destanie {
-    margin-top: 20px;
-    width:400px; 
-    margin-left: 450px;
-    margin-bottom: 50px;
+header {
+    font-size:  10px;
+    display: inline;
+    float: right;
     
-    position:static;
-} */
+    
+}
 
+.destanie {
+    margin-left: 40%;
+    font-size: 30px;
+    width: 300px
+  
+}
 
-/* .worktitle {
-    font-size: 20px;
-    font-style: italic;
-} */
+.worktitle {
+    font-size: 30px;
+ margin-bottom: 1px;
+}
 
 hr {
    height: 1px;
-   color: rgb(182, 135, 74);
+   color: rgb(141, 98, 41);
     border-top: dotted;
     width: 250px;
+    margin-top: 10px;
+    margin-bottom: 40px;
 }
 
 p {
-    color: rgb(182, 135, 74);
+    color: rgb(145, 98, 37);
     font-style: bold;
-    font-size: 20px;
+    font-size: 25px;
+    margin-bottom: 10px;
 }
 
 a {
@@ -70,20 +78,26 @@ a:link {
 
 .education {
     font-style: italic;
+    margin-bottom: 30px;
 }
 
 ul, li {
     font-size: 18px;
     list-style-type: none;
+    margin-bottom: 15px;
+    font-size: 20px;
     
 }
 
 .experience , td{
-  padding-bottom: 20px;
+  padding-bottom: 5px;
+  padding-top: 10px;
+  font-size: 20px;
+
 }
 
 .bird {
-    padding: 50px 250px;
+    padding: 20px 250px;
 }
 
 td {
